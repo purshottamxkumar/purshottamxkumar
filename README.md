@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purshottamxkumar&label=Profile%20views&color=0e75b6&style=flat" alt="purshottamxkumar" /> </p>
 
-- 📗 Currently Learning frontend webD
+- 📗 Currently Learning Frontend Web Development
 - 📫 How to reach me **purshottamk0011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
