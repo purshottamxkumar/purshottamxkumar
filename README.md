@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purshottam Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purshottamxkumar&label=Profile%20views&color=0e75b6&style=flat" alt="purshottamxkumar" /> </p>
 
-- 📗 I’m currently learning **ReactJS**
+- 📗 I’m currently learning **AngularJS**
 
 - 📫 How to reach me **purshottamk0011@gmail.com**
 
